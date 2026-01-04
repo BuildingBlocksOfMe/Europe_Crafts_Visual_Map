@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "デルフト陶器",
+    "country": "オランダ",
+    "city": "デルフト",
+    "coordinates": [52.0116, 4.3571],
+    "description": "17世紀から続く伝統的な青と白の陶器。中国の磁器に影響を受けて発展し、オランダの代表的な工芸品として知られています。",
+    "category": "陶器",
+    "image": "https://source.unsplash.com/800x600/?delft,pottery,blue,white"
+  },
+  {
+    "id": 2,
+    "name": "ミュンヘン・ビール",
+    "country": "ドイツ",
+    "city": "ミュンヘン",
+    "coordinates": [48.1351, 11.5820],
+    "description": "1516年のビール純粋令に基づく伝統的な醸造技術。オクトーバーフェストで有名なミュンヘンのビール文化は世界遺産にも登録されています。",
+    "category": "飲料",
+    "image": "https://source.unsplash.com/800x600/?beer,oktoberfest,german"
+  },
+  {
+    "id": 3,
+    "name": "ヴェネツィア・ガラス",
+    "country": "イタリア",
+    "city": "ヴェネツィア",
+    "coordinates": [45.4408, 12.3155],
+    "description": "ムラーノ島で1000年以上の歴史を持つガラス工芸。鮮やかな色彩と繊細な技法で作られるガラス製品は世界的に有名です。",
+    "category": "ガラス工芸",
+    "image": "https://source.unsplash.com/800x600/?venetian,glass,murano,art"
+  },
+  {
+    "id": 4,
+    "name": "リモージュ磁器",
+    "country": "フランス",
+    "city": "リモージュ",
+    "coordinates": [45.8336, 1.2611],
+    "description": "18世紀から続くフランス最高級の磁器。白磁の美しさと繊細な装飾が特徴で、フランス王室御用達としても知られています。",
+    "category": "陶器",
+    "image": "https://source.unsplash.com/800x600/?limoges,porcelain,french"
+  },
+  {
+    "id": 5,
+    "name": "シェフィールド・スティール",
+    "country": "イギリス",
+    "city": "シェフィールド",
+    "coordinates": [53.3811, -1.4701],
+    "description": "18世紀から続くイギリスの伝統的な刃物製造。高品質なステンレススティール製のナイフやカトラリーで世界的に有名です。",
+    "category": "金属工芸",
+    "image": "https://source.unsplash.com/800x600/?knife,cutlery,steel,sheffield"
+  },
+  {
+    "id": 6,
+    "name": "セビリア・陶器",
+    "country": "スペイン",
+    "city": "セビリア",
+    "coordinates": [37.3891, -5.9845],
+    "description": "アラブ文化の影響を受けた色彩豊かなタイルと陶器。アンダルシア地方の伝統的な装飾技法が特徴です。",
+    "category": "陶器",
+    "image": "https://source.unsplash.com/800x600/?seville,pottery,tile,spain"
+  },
+  {
+    "id": 7,
+    "name": "ポルト・ワイン",
+    "country": "ポルトガル",
+    "city": "ポルト",
+    "coordinates": [41.1579, -8.6291],
+    "description": "ドウロ川流域で生産される伝統的な酒精強化ワイン。300年以上の歴史を持つポルトガルの代表的な工芸品です。",
+    "category": "飲料",
+    "image": "https://source.unsplash.com/800x600/?port,wine,portugal,bottle"
+  },
+  {
+    "id": 8,
+    "name": "ロシア・マトリョーシカ",
+    "country": "ロシア",
+    "city": "セルギエフ・ポサド",
+    "coordinates": [56.3100, 38.1300],
+    "description": "19世紀末に生まれたロシアの伝統的な人形。木製の入れ子人形で、手描きの美しい装飾が特徴です。",
+    "category": "木工",
+    "image": "https://source.unsplash.com/800x600/?matryoshka,russian,doll,wooden"
+  },
+  {
+    "id": 9,
+    "name": "スウェーデン・ガラス",
+    "country": "スウェーデン",
+    "city": "スモーランド",
+    "coordinates": [57.6531, 14.6968],
+    "description": "スモーランド地方で発展したガラス工芸。シンプルで機能的なデザインが特徴のスカンジナビアスタイルのガラス製品です。",
+    "category": "ガラス工芸",
+    "image": "https://source.unsplash.com/800x600/?swedish,glass,scandinavian"
+  },
+  {
+    "id": 10,
+    "name": "チェコ・ボヘミアガラス",
+    "country": "チェコ",
+    "city": "プラハ",
+    "coordinates": [50.0755, 14.4378],
+    "description": "13世紀から続くボヘミア地方のガラス工芸。カットガラスやエングレービング技法で作られる高品質なガラス製品で有名です。",
+    "category": "ガラス工芸",
+    "image": "https://source.unsplash.com/800x600/?bohemian,glass,crystal,czech"
+  },
+  {
+    "id": 11,
+    "name": "ハンガリー刺繍「カロチャ」",
+    "country": "ハンガリー",
+    "city": "カロチャ",
+    "coordinates": [46.5333, 19.6167],
+    "description": "色鮮やかな花や葉のモチーフが特徴的な伝統的な刺繍。ハンガリーの民族衣装や装飾品に広く用いられています。",
+    "category": "織物",
+    "image": "https://source.unsplash.com/800x600/?embroidery,hungarian,flower,pattern"
+  },
+  {
+    "id": 12,
+    "name": "スウェーデン・ダーラナホース",
+    "country": "スウェーデン",
+    "city": "モーラ",
+    "coordinates": [60.9586, 14.5367],
+    "description": "スウェーデンの伝統的な木製の馬の置物。鮮やかな装飾が施され、スウェーデンの象徴的な工芸品として知られています。",
+    "category": "木工",
+    "image": "https://source.unsplash.com/800x600/?dalahorse,swedish,wooden,horse"
+  },
+  {
+    "id": 13,
+    "name": "ノルウェー・ローズマリング",
+    "country": "ノルウェー",
+    "city": "オスロ",
+    "coordinates": [59.9139, 10.7522],
+    "description": "花や渦巻き模様を描く伝統的な装飾技法。家具や食器に用いられ、ノルウェーの民俗芸術として親しまれています。",
+    "category": "装飾",
+    "image": "https://source.unsplash.com/800x600/?rosemaling,norwegian,decoration,flower"
+  },
+  {
+    "id": 14,
+    "name": "フィンランド・リュイユ織り",
+    "country": "フィンランド",
+    "city": "ヘルシンキ",
+    "coordinates": [60.1699, 24.9384],
+    "description": "厚手のウールを用いた伝統的な織物。ラグやタペストリーとして使用され、フィンランドの家庭に欠かせない工芸品です。",
+    "category": "織物",
+    "image": "https://source.unsplash.com/800x600/?ryijy,rug,finland,wool"
+  },
+  {
+    "id": 15,
+    "name": "スコットランド・タータンチェック",
+    "country": "イギリス",
+    "city": "エディンバラ",
+    "coordinates": [55.9533, -3.1883],
+    "description": "特定の色とパターンで織られたチェック柄の織物。クラン（氏族）ごとに異なるデザインがあり、スコットランドの伝統を象徴します。",
+    "category": "織物",
+    "image": "https://source.unsplash.com/800x600/?tartan,scottish,plaid,pattern"
+  },
+  {
+    "id": 16,
+    "name": "アイルランド・アランセーター",
+    "country": "アイルランド",
+    "city": "アラン諸島",
+    "coordinates": [53.1167, -9.7000],
+    "description": "複雑な編み模様が特徴のウール製セーター。漁師たちの防寒着として発展し、アイルランドの伝統的な編み物技術の結晶です。",
+    "category": "織物",
+    "image": "https://source.unsplash.com/800x600/?aran,sweater,knit,ireland"
+  },
+  {
+    "id": 17,
+    "name": "スペイン・タラベラ陶器",
+    "country": "スペイン",
+    "city": "タラベラ・デ・ラ・レイナ",
+    "coordinates": [39.9600, -4.8300],
+    "description": "鮮やかな色彩と細かい装飾が特徴の陶器。16世紀から続く伝統技法で、スペインの代表的な工芸品として知られています。",
+    "category": "陶器",
+    "image": "https://source.unsplash.com/800x600/?talavera,pottery,spain,colorful"
+  },
+  {
+    "id": 18,
+    "name": "ポルトガル・アズレージョ",
+    "country": "ポルトガル",
+    "city": "リスボン",
+    "coordinates": [38.7223, -9.1393],
+    "description": "青と白のタイル装飾。建物の内外装に広く用いられ、ポルトガルの建築文化を彩る美しい工芸品です。",
+    "category": "陶器",
+    "image": "https://source.unsplash.com/800x600/?azulejo,tile,portugal,blue"
+  },
+  {
+    "id": 19,
+    "name": "ベルギー・ブリュッセルレース",
+    "country": "ベルギー",
+    "city": "ブリュッセル",
+    "coordinates": [50.8503, 4.3517],
+    "description": "非常に細かい糸で編まれたレース。17世紀から続く伝統技法で、高級品として世界的に知られています。",
+    "category": "織物",
+    "image": "https://source.unsplash.com/800x600/?lace,brussels,belgium,delicate"
+  },
+  {
+    "id": 20,
+    "name": "スイス・アッペンツェル刺繍",
+    "country": "スイス",
+    "city": "アッペンツェル",
+    "coordinates": [47.3300, 9.4100],
+    "description": "白糸を用いた精緻な刺繍。衣服やリネンに施され、スイスの伝統的な手工芸として親しまれています。",
+    "category": "織物",
+    "image": "https://source.unsplash.com/800x600/?appenzell,embroidery,swiss,white"
+  },
+  {
+    "id": 21,
+    "name": "オーストリア・チロル刺繍",
+    "country": "オーストリア",
+    "city": "インスブルック",
+    "coordinates": [47.2692, 11.4041],
+    "description": "アルプス地方の伝統的な刺繍。民族衣装に多用され、オーストリアの山岳文化を象徴する美しい工芸品です。",
+    "category": "織物",
+    "image": "https://source.unsplash.com/800x600/?tyrolean,embroidery,austria,alpine"
+  },
+  {
+    "id": 22,
+    "name": "ポーランド・ヴィチナンキ",
+    "country": "ポーランド",
+    "city": "クラクフ",
+    "coordinates": [50.0647, 19.9450],
+    "description": "色紙を切り抜いて作る伝統的な切り絵。対称的なデザインが特徴で、ポーランドの民俗芸術として親しまれています。",
+    "category": "装飾",
+    "image": "https://source.unsplash.com/800x600/?wycinanki,papercut,poland,pattern"
+  },
+  {
+    "id": 23,
+    "name": "ギリシャ・アンフォラ",
+    "country": "ギリシャ",
+    "city": "アテネ",
+    "coordinates": [37.9838, 23.7275],
+    "description": "古代ギリシャから続く伝統的な陶器。装飾的な絵付けが特徴で、ギリシャの歴史と文化を伝える工芸品です。",
+    "category": "陶器",
+    "image": "https://source.unsplash.com/800x600/?amphora,greek,pottery,ancient"
+  },
+  {
+    "id": 24,
+    "name": "デンマーク・ロイヤルコペンハーゲン",
+    "country": "デンマーク",
+    "city": "コペンハーゲン",
+    "coordinates": [55.6761, 12.5683],
+    "description": "1775年創設のデンマーク王室御用達の磁器メーカー。青い装飾が特徴で、デンマークの伝統工芸を代表する磁器です。",
+    "category": "陶器",
+    "image": "https://source.unsplash.com/800x600/?royal,copenhagen,porcelain,denmark"
+  },
+  {
+    "id": 25,
+    "name": "イタリア・ムラーノガラス",
+    "country": "イタリア",
+    "city": "ムラーノ",
+    "coordinates": [45.4577, 12.3564],
+    "description": "ヴェネツィアのムラーノ島で作られる高級ガラス工芸。1000年以上の歴史を持ち、世界的に有名なガラス製品です。",
+    "category": "ガラス工芸",
+    "image": "https://source.unsplash.com/800x600/?murano,glass,venice,italy"
+  },
+  {
+    "id": 26,
+    "name": "フランス・リモージュエナメル",
+    "country": "フランス",
+    "city": "リモージュ",
+    "coordinates": [45.8336, 1.2611],
+    "description": "中世から続くリモージュのエナメル工芸。金属にガラス質の釉薬を焼き付けた美しい装飾品で、フランスの伝統工芸です。",
+    "category": "金属工芸",
+    "image": "https://source.unsplash.com/800x600/?enamel,limoges,france,metal"
+  },
+  {
+    "id": 27,
+    "name": "ドイツ・マイセン磁器",
+    "country": "ドイツ",
+    "city": "マイセン",
+    "coordinates": [51.1657, 13.4706],
+    "description": "1710年創設のヨーロッパ初の磁器製造所。青い交差する剣のマークで知られ、世界最高級の磁器として評価されています。",
+    "category": "陶器",
+    "image": "https://source.unsplash.com/800x600/?meissen,porcelain,german,blue"
+  },
+  {
+    "id": 28,
+    "name": "イギリス・ウェッジウッド",
+    "country": "イギリス",
+    "city": "ストーク・オン・トレント",
+    "coordinates": [53.0027, -2.1794],
+    "description": "1759年創設のイギリスを代表する陶器メーカー。ジャスパーウェアやクイーンズウェアで世界的に有名です。",
+    "category": "陶器",
+    "image": "https://source.unsplash.com/800x600/?wedgwood,pottery,english,ceramic"
+  },
+  {
+    "id": 29,
+    "name": "ウクライナ・ペトリキフカ絵画",
+    "country": "ウクライナ",
+    "city": "ペトリキフカ",
+    "coordinates": [48.7300, 34.6200],
+    "description": "ウクライナの伝統的な装飾絵画。花や植物のモチーフを描き、家の壁や家具を装飾する民俗芸術です。",
+    "category": "装飾",
+    "image": "https://source.unsplash.com/800x600/?petrykivka,ukrainian,decoration,flower"
+  },
+  {
+    "id": 30,
+    "name": "ルーマニア・イコン",
+    "country": "ルーマニア",
+    "city": "ブカレスト",
+    "coordinates": [44.4268, 26.1025],
+    "description": "正教会の伝統的なイコン画。木製パネルに描かれる宗教画で、ルーマニアの文化的遺産として大切に守られています。",
+    "category": "装飾",
+    "image": "https://source.unsplash.com/800x600/?icon,orthodox,romanian,religious"
+  }
+]

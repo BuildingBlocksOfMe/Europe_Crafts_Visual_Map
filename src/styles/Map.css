@@ -1,0 +1,127 @@
+.map-container {
+  flex: 1;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+/* Leafletのポップアップスタイルのカスタマイズ */
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.leaflet-popup-content {
+  margin: 0;
+  padding: 0;
+  min-width: 200px;
+}
+
+.craft-popup {
+  padding: 0;
+  min-width: 250px;
+  max-width: 300px;
+}
+
+.craft-popup-image-container {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  margin-bottom: 0.75rem;
+  border-radius: 8px 8px 0 0;
+}
+
+.craft-popup-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.craft-popup-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 0.75rem;
+  padding: 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #667eea;
+}
+
+.craft-popup-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 0 1rem 1rem 1rem;
+}
+
+.craft-popup-location,
+.craft-popup-category {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0;
+}
+
+.craft-popup-location strong,
+.craft-popup-category strong {
+  color: #667eea;
+  font-weight: 600;
+}
+
+.craft-popup-description {
+  font-size: 0.9rem;
+  color: #666;
+  line-height: 1.6;
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid #eee;
+}
+
+/* レスポンシブデザイン */
+@media (max-width: 768px) {
+  .craft-popup {
+    min-width: 200px;
+    max-width: 250px;
+  }
+
+  .craft-popup-image-container {
+    height: 150px;
+  }
+
+  .craft-popup-title {
+    font-size: 1.1rem;
+    padding: 0 0.75rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .craft-popup-info {
+    padding: 0 0.75rem 0.75rem 0.75rem;
+  }
+
+  .craft-popup-location,
+  .craft-popup-category,
+  .craft-popup-description {
+    font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .craft-popup {
+    min-width: 180px;
+    max-width: 220px;
+  }
+
+  .craft-popup-image-container {
+    height: 120px;
+  }
+
+  .craft-popup-title {
+    font-size: 1rem;
+    padding: 0 0.6rem;
+    padding-bottom: 0.4rem;
+  }
+
+  .craft-popup-info {
+    padding: 0 0.6rem 0.6rem 0.6rem;
+  }
+}
